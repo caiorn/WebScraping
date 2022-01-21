@@ -1,0 +1,15 @@
+C:\Users\Micro\Documents\Visual Studio 2017\Projects\WebScrapingChecking\WebScrapingChecking\bin\Release\WebScrapingChecking.exe
+C:\Users\Micro\Documents\Visual Studio 2017\Projects\WebScrapingChecking\WebScrapingChecking\bin\Release\WebScrapingChecking.pdb
+C:\Users\Micro\Documents\Visual Studio 2017\Projects\WebScrapingChecking\WebScrapingChecking\obj\Release\WebScrapingChecking.Form1.resources
+C:\Users\Micro\Documents\Visual Studio 2017\Projects\WebScrapingChecking\WebScrapingChecking\obj\Release\WebScrapingChecking.Properties.Resources.resources
+C:\Users\Micro\Documents\Visual Studio 2017\Projects\WebScrapingChecking\WebScrapingChecking\obj\Release\WebScrapingChecking.csproj.GenerateResource.cache
+C:\Users\Micro\Documents\Visual Studio 2017\Projects\WebScrapingChecking\WebScrapingChecking\obj\Release\WebScrapingChecking.csproj.CoreCompileInputs.cache
+C:\Users\Micro\Documents\Visual Studio 2017\Projects\WebScrapingChecking\WebScrapingChecking\obj\Release\WebScrapingChecking.exe
+C:\Users\Micro\Documents\Visual Studio 2017\Projects\WebScrapingChecking\WebScrapingChecking\obj\Release\WebScrapingChecking.pdb
+C:\Users\Micro\Documents\Visual Studio 2017\Projects\WebScrapingChecking\WebScrapingChecking\obj\Release\WebScrapingChecking.csprojAssemblyReference.cache
+C:\Users\Micro\Documents\Visual Studio 2017\Projects\WebScrapingChecking\WebScrapingChecking\bin\Release\WebScrapingChecking.exe.config
+C:\Users\Micro\Documents\Visual Studio 2017\Projects\WebScrapingChecking\WebScrapingChecking\bin\Release\HtmlAgilityPack.dll
+C:\Users\Micro\Documents\Visual Studio 2017\Projects\WebScrapingChecking\WebScrapingChecking\bin\Release\HtmlAgilityPack.pdb
+C:\Users\Micro\Documents\Visual Studio 2017\Projects\WebScrapingChecking\WebScrapingChecking\bin\Release\HtmlAgilityPack.xml
+C:\Users\Micro\Documents\Visual Studio 2017\Projects\WebScrapingChecking\WebScrapingChecking\obj\Release\WebScrapingChecking.Form2.resources
+C:\Users\Micro\Documents\Visual Studio 2017\Projects\WebScrapingChecking\WebScrapingChecking\obj\Release\WebScrapingChecking.csproj.CopyComplete
